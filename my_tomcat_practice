@@ -1,0 +1,4 @@
+<?> Apache-tomcat-setup <?>
+Apache Tomcat Setup Script
+
+Update users information is the tomcat-users.xml file. #vi /opt/tomcat/conf/tomcat-users.xm and add the below user configuration at the last line of the file
